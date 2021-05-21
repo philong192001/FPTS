@@ -1,0 +1,13 @@
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.exe
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.deps.json
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.json
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.runtimeconfig.dev.json
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.dll
+E:\FPTS\DesignParttern-GroupCreational\Bridge\bin\Debug\netcoreapp3.1\Bridge.pdb
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.csprojAssemblyReference.cache
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfoInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.AssemblyInfo.cs
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.csproj.CoreCompileInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.dll
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.pdb
+E:\FPTS\DesignParttern-GroupCreational\Bridge\obj\Debug\netcoreapp3.1\Bridge.genruntimeconfig.cache

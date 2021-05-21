@@ -1,0 +1,13 @@
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.exe
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.deps.json
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.json
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.runtimeconfig.dev.json
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.dll
+E:\FPTS\DesignParttern-GroupCreational\Decorator\bin\Debug\netcoreapp3.1\Decorator.pdb
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.csprojAssemblyReference.cache
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfoInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.AssemblyInfo.cs
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.csproj.CoreCompileInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.dll
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.pdb
+E:\FPTS\DesignParttern-GroupCreational\Decorator\obj\Debug\netcoreapp3.1\Decorator.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.exe
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.json
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.runtimeconfig.dev.json
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.dll
+E:\FPTS\DesignParttern-GroupCreational\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.dll
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.pdb
+E:\FPTS\DesignParttern-GroupCreational\Facade\obj\Debug\netcoreapp3.1\Facade.genruntimeconfig.cache

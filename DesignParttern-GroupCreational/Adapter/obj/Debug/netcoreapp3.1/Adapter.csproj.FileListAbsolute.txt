@@ -1,0 +1,13 @@
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+E:\FPTS\DesignParttern-GroupCreational\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+E:\FPTS\DesignParttern-GroupCreational\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
